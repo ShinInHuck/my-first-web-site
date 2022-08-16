@@ -101,7 +101,7 @@ a{
 }
 .link {
     display:block;
-    transform: translate( -750%, -5% );
+    transform: translate( -750%, 3% );
     line-height: 200px;
     font-size: 24px;
     background-color: rgba(3, 51, 79, 0.848);
@@ -118,7 +118,7 @@ a{
     font-style: italic;
     display: inline-block;
     margin-left: 50px;
-    transform: translate( 20%, -270% );
+    transform: translate( 20%, -220% );
     background-color: rgba(3, 51, 79, 0.848);
     color: #fff;
     border-radius: 20px;

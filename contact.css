@@ -1,29 +1,21 @@
-/*배경 색상*/
-body {
-    
-    background-color: rgb(79, 87, 131);
+body{
+    background-color: rgb(111, 84, 140);
 }
-
 /*메인 텍스트*/
+a{
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
 
+}
+/*하단바*/
 .main_image_text {
     position: absolute;
     top: 50%;
     left: 45%;
-    transform: translate( -30%, -80% );
+    transform: translate( -50%, -50% );
     color: white;
 }
-
-/*home*/
-
-.main_image {
-    position:relative;
-    width: 85%;
-    height: 50%;
-    left: 200px;
-    object-fit: cover;
-}
-/*하단바*/
 
 .menu * {
     display:flex;
@@ -69,46 +61,18 @@ body {
     
     
 }
-/*about*/
-.intext {
-    display:inline-block;
-    font-size: small;
-    color:white;
-    margin-top: 50px;
-    margin-right: 100px;
-    padding-left: 80px;
-    position:relative;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-}
-
-.me{
-    float: left;
-    margin-top: 130px;
-    margin-left: 350px;
-    color: #fff;
-    border-radius: 20px;
-    padding: 10px;
-    box-sizing: border-box;
-    
-}
 /*contact*/
-a{
-    text-decoration: none;
-    font-family:'Times New Roman', Times, serif;
-    color: white;
-
-}
 .link {
-    display:block;
-    transform: translate( -750%, -5% );
+    display: inline-block;
     line-height: 200px;
     font-size: 24px;
+    text-align: center;
     background-color: rgba(3, 51, 79, 0.848);
     color: #fff;
     border-radius: 20px;
     padding: 10px;
     box-sizing: border-box;
+    transform: translate( 30%, 10% );
 }
 .lists{
     text-align: center;
@@ -118,11 +82,11 @@ a{
     font-style: italic;
     display: inline-block;
     margin-left: 50px;
-    transform: translate( 20%, -270% );
+    transform: translate( 40%, -120% );
     background-color: rgba(3, 51, 79, 0.848);
     color: #fff;
     border-radius: 20px;
-    padding: 1px;
+    padding: 10px;
     box-sizing: border-box;
     
     
@@ -132,11 +96,24 @@ a{
     width: 250px;
     height: 250px;
     border-radius: 20px;
-    padding: 10px;
+    padding: 1px;
     box-sizing: border-box;
     
     
+    
+    
 }
+
+.ct {
+    top: 100%;
+    left: 100%;
+    transform: translate( -50%, -50% );
+    color: white;    
+    margin-left: 50px;
+    
+    
+}
+
 
 
 

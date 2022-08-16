@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(81, 131, 123);
+}
+/*home*/
+.main_image {
+    position: absolute;
+    width: 85%;
+    height: 60%;
+    left: 200px;
+    object-fit: cover;
+}
+/*하단바*/
+.main_image_text {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate( -50%, -50% );
+    color: white;
+}
+
+.menu * {
+    display:flex;
+    height: 30px;
+    align-items: center;
+    color:#fff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.menu li {
+    margin: 65px;
+    border-radius: 20px;
+    padding: 10px;
+ 
+   
+}
+
+.menu li a :hover{
+    transition: all ease;
+    display:block;
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    background-color:rgba(3, 51, 79, 0.848);
+    opacity: 0.7;
+    overflow: hidden;
+}
+
+.menu li a {
+    color: rgb(231, 231, 237);
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+.menu ul {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate( -50%, -50% );
+    cursor: pointer;
+    text-decoration: none; 
+    line-height: 1.5;
+    
+    
+}
+/*about*/
+.intext {
+    display:inline-block;
+    font-size: small;
+    color:white;
+    margin-top: 50px;
+    margin-right: 100px;
+    padding-left: 80px;
+    position:relative;
+    
+}
+
+.me{
+    float: left;
+    margin-top: 130px;
+    margin-left: 350px;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+
+
+

@@ -9,3 +9,5 @@
 ![증명사진](https://user-images.githubusercontent.com/110589528/184903048-ea8abe7c-509a-450a-9d0c-ebd2d5473631.JPG)
 
 ![패션디자인](https://user-images.githubusercontent.com/110589528/184903148-7a4b14a2-370a-4fa3-bac2-d1a1e5fccdc6.JPG)
+
+![메인사진](https://user-images.githubusercontent.com/110589528/184911712-d358ad44-6994-4583-8808-4368ed67e2f5.png)

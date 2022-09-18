@@ -14,17 +14,18 @@ a{
 
 /*home*/
 .main_image {
-    position: absolute;
+    position:relative;
     width: 85%;
-    height: 60%;
-    left: 200px;
+    height: 50%;
+    left: 400px;
     object-fit: cover;
+    border-radius: 100px;
 }
 /*하단바*/
 .main_image_text {
     position: absolute;
-    top: 50%;
-    left: 45%;
+    top: 30%;
+    left: 25%;
     transform: translate( -50%, 120% );
     color: white;
 }

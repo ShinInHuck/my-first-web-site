@@ -1,11 +1,13 @@
-![의류매장](https://user-images.githubusercontent.com/110589528/184902855-6917adf7-fc20-444b-a02a-d330abe51c9b.jpg)
+![메인사진](https://user-images.githubusercontent.com/110589528/184861763-2a6d72bc-b62d-4904-a2e0-ecfcee455aac.jpg)
 
-![증명사진](https://user-images.githubusercontent.com/110589528/184903048-ea8abe7c-509a-450a-9d0c-ebd2d5473631.JPG)
+![증명사진](https://user-images.githubusercontent.com/110589528/184861973-b7ea402e-be87-48fe-bca2-eeb1a7467970.JPG)
 
-![패션디자인](https://user-images.githubusercontent.com/110589528/184903148-7a4b14a2-370a-4fa3-bac2-d1a1e5fccdc6.JPG)
+![패션디자인](https://user-images.githubusercontent.com/110589528/184862077-ddb39c5a-be8b-48b8-96fc-45feb822fb5f.JPG)
 
-![메인사진](https://user-images.githubusercontent.com/110589528/184922905-30ffcde1-1d21-48ff-b783-8018ed75275b.JPG)
+![가구디자인](https://user-images.githubusercontent.com/110589528/184862367-298a5dfa-5236-4c35-873e-97317b07ef36.jpg)
 
-![가구디자인](https://user-images.githubusercontent.com/110589528/184914651-14a7b3e3-5979-4807-a8c5-3f09d9273671.jpg)
+![제품디자인](https://user-images.githubusercontent.com/110589528/184863346-1d8b8e8e-11cc-47ea-9817-45f307df3fbe.jpg)
 
-![제품디자인](https://user-images.githubusercontent.com/110589528/184924586-2592d13e-c4fe-4d15-8f46-be4f78423497.jpg)
+![main](https://user-images.githubusercontent.com/110589528/190896845-2563946f-aea8-4291-a1da-135f9c4e2e20.jpg)
+
+![1](https://user-images.githubusercontent.com/110589528/190896887-0fe51821-bbe0-4903-a860-cd2758f16396.jpg)

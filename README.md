@@ -10,8 +10,6 @@
 
 ![main](https://user-images.githubusercontent.com/110589528/190896845-2563946f-aea8-4291-a1da-135f9c4e2e20.jpg)
 
-![1](https://user-images.githubusercontent.com/110589528/190896887-0fe51821-bbe0-4903-a860-cd2758f16396.jpg)
-
 ![의류매장](https://user-images.githubusercontent.com/110589528/190899531-711eb9c1-3924-4a69-8250-d95fd1239e8a.jpg)
 
 ![1](https://user-images.githubusercontent.com/110589528/190899558-4a091941-fb4e-40b7-8fe8-b5acc50e9397.jpeg)

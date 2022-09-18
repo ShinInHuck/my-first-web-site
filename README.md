@@ -12,5 +12,4 @@
 
 ![의류매장](https://user-images.githubusercontent.com/110589528/190899531-711eb9c1-3924-4a69-8250-d95fd1239e8a.jpg)
 
-![1](https://user-images.githubusercontent.com/110589528/190899558-4a091941-fb4e-40b7-8fe8-b5acc50e9397.jpeg)
-
+![1](https://user-images.githubusercontent.com/110589528/190900511-ceb2c085-9df5-4585-b4b0-fee45c4f08ba.jpg)
